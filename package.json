@@ -13,5 +13,8 @@
     "ts"
   ],
   "author": "Javier Cepeda <erjavierc@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
 }
