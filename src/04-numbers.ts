@@ -18,4 +18,15 @@
 
   let discont = parseInt('123')
   console.log('discont', discont);
+  if (discont <= 200){
+    console.log('apply')
+  }else {
+    console.log('not apply')
+  }
+
+
+  let hex = 0xfff;
+  console.log('hex', hex)
+  let bin = 0b1010;
+  console.log('bin', bin);
 })();
